@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23b508d2-4a61-4281-ab8b-b59320bbd0fe</testCaseGuid>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>9fc93879-ed0a-44f5-9f52-e7397f2f6cd8</id>
+      <masked>false</masked>
+      <name>sleep</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dashboard'</defaultValue>
+      <description></description>
+      <id>ff84321d-26f4-44fb-a208-00bc76a20afb</id>
+      <masked>false</masked>
+      <name>homeHeader</name>
+   </variable>
+</TestCaseEntity>

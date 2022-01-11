@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>for loop and ifelse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cefaf3c2-b25c-49a7-b4c8-4aacacc0ec50</testCaseGuid>
+   <variable>
+      <defaultValue>'Dashboard'</defaultValue>
+      <description></description>
+      <id>bad36f7f-6157-4062-9acb-d10c3a65f1f4</id>
+      <masked>false</masked>
+      <name>homeHeader</name>
+   </variable>
+</TestCaseEntity>

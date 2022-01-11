@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d64906ba-d803-4da5-b477-13dd487e28eb</testCaseGuid>
+   <variable>
+      <defaultValue>'Dashboard'</defaultValue>
+      <description></description>
+      <id>9dd859ad-07e2-452b-a7b5-a4c608581b70</id>
+      <masked>false</masked>
+      <name>homeHeader</name>
+   </variable>
+</TestCaseEntity>
